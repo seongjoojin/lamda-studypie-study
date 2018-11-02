@@ -87,3 +87,11 @@ https://github.com/plusfriend/auto_reply
 
 - https://devbro.tistory.com/10
 - https://devbro.tistory.com/11
+
+# advanced rest client
+
+https://chrome.google.com/webstore/detail/advanced-rest-client/hgmloofddffdnphfgcellkdfbfbjeloo/related
+
+# Advanced REST Client | 크롬 확장 프로그램으로 REST API 테스트 하기
+
+https://devbro.tistory.com/13
