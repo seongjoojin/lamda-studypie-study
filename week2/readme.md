@@ -70,3 +70,20 @@ REST 아키텍쳐의 제한 조건
 프로퍼티 이름 - 의미를 충분히 반영, 카멜 케이스, 예약어 사용하지 말 것
 
 응답 메세지 구조 - 데이터와 보조 데이터 활용, 에러 발생시 에러 정보 제공
+
+# 카카오 플러스 친구 만들기
+
+https://center-pf.kakao.com/signup
+
+내년 이후로 변경된다고 합니다.
+
+# 카카오 플러스 친구 자동응답 api 명세
+
+https://github.com/plusfriend/auto_reply
+
+11월 30일 이후로는 발급 불가 하다고합니다.
+
+# 랜덤 아재개그 카카오 플러스 친구 만들기
+
+https://devbro.tistory.com/10
+https://devbro.tistory.com/11
