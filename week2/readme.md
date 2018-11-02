@@ -85,5 +85,5 @@ https://github.com/plusfriend/auto_reply
 
 # 랜덤 아재개그 카카오 플러스 친구 만들기
 
-https://devbro.tistory.com/10
-https://devbro.tistory.com/11
+- https://devbro.tistory.com/10
+- https://devbro.tistory.com/11
